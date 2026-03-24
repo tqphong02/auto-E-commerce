@@ -5,7 +5,7 @@ This project is a minimal scaffold for Playwright Test using the Page Object Mod
 Quick start:
 
 ```bash
-cd d:\monhoc\Playwright\auto-ecomere
+cd auto-ecomere
 npm install
 npx playwright install
 npm test
